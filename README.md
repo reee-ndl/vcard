@@ -1,7 +1,6 @@
-# SERVPRO CONSOLIDATED INC.
-# electronic business card
+SERVPRO CONSOLIDATED INC.
+electronic business card
 
-# Features
-# downloadable contact information
+downloadable contact information
 
 
